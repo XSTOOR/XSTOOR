@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XSTOOR
+- 👋 Hi, I’m @XSTOOR aka Mishal Muneer
 - 👀 I’m interested in ... Artificial intelligence
 - 🌱 I’m currently learning ... Computer science
 - 💞️ I’m looking to collaborate on ...AI/ML projects
